@@ -1,0 +1,29 @@
+.photo-grid {
+  max-width: 1184px;
+  min-height: 671px;
+  margin: 0 auto 92px auto;
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .photo-grid {
+    max-width: 928px;
+    min-height: 942px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .photo-grid {
+    max-width: 720px;
+    min-height: 1664px;
+    margin: 0 auto 88px auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .photo-grid {
+    max-width: 288px;
+    min-height: 2724px;
+    margin: 0 auto 64px auto;
+  }
+}

@@ -1,0 +1,15 @@
+.header__lang-link_chosen {
+  color: #FFFFFF;
+  max-width: 30px;
+  min-height: 28px;
+  text-decoration: underline;
+  line-height: 1.17;
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang-link_chosen {
+    max-width: 22px;
+    min-height: 20px;
+    line-height: 1.11;
+  }
+}
