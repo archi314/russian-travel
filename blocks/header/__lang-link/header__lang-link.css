@@ -2,12 +2,20 @@
   color: #FFFFFF;
   max-width: 29px;
   min-height: 28px;
+  line-height: 1.17;
   text-decoration: none;
+  opacity: 1;
+  transition: .5s ease;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
   .header__lang-link {
     max-width: 22px;
     min-height: 20px;
+    line-height: 1.11;
   }
 }
