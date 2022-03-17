@@ -17,4 +17,4 @@
 
 **Ссылка на проект**
 
-* [Ссылка на проект Russian-travel](https://github.com/archi314/russian-travel) 
+* [Ссылка на проект Russian-travel](https://archi314.github.io/russian-travel/) 
